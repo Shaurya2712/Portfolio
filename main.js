@@ -1,8 +1,9 @@
 var typedAbout = new Typed(".auto-type-about", {
-  strings: ["Shaurya", "Web Developer"],
+  strings: ["Shaurya Malhotra", "Web Developer"],
   typeSpeed: 150,
   backSpeed: 150,
   loop: true,
+  showCursor: false,
 });
 
 var typedSkills = new Typed(".auto-type-skill1", {
@@ -10,6 +11,7 @@ var typedSkills = new Typed(".auto-type-skill1", {
   typeSpeed: 150,
   backSpeed: 150,
   loop: false,
+  showCursor: false,
 });
 
 var typedSkills = new Typed(".auto-type-skill2", {
@@ -17,6 +19,7 @@ var typedSkills = new Typed(".auto-type-skill2", {
   typeSpeed: 150,
   backSpeed: 150,
   loop: false,
+  showCursor: false,
 });
 
 var typedSkills = new Typed(".auto-type-skill3", {
@@ -24,6 +27,7 @@ var typedSkills = new Typed(".auto-type-skill3", {
   typeSpeed: 150,
   backSpeed: 150,
   loop: false,
+  showCursor: false,
 });
 
 var typedSkills = new Typed(".auto-type-skill4", {
@@ -31,6 +35,7 @@ var typedSkills = new Typed(".auto-type-skill4", {
   typeSpeed: 150,
   backSpeed: 150,
   loop: false,
+  showCursor: false,
 });
 
 var typedHobby = new Typed(".auto-type-hobby", {
@@ -38,4 +43,5 @@ var typedHobby = new Typed(".auto-type-hobby", {
   typeSpeed: 150,
   backSpeed: 150,
   loop: true,
+  showCursor: false,
 });
